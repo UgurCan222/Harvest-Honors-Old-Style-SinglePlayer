@@ -1,0 +1,2 @@
+# Harvest Honors Old Style SinglePlayer
+ I’ve spent my free time recreating the beloved style of the famous Harvest Honors game, in memory of my mom, who missed it since the removal of Flash Player. I decided to share the game here, thinking that others might also want to enjoy it. All copyright belongs to Azerion. If they request its removal, I will gladly comply. This project is purely non-commercial and for personal enjoyment only.
